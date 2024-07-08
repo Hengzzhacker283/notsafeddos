@@ -1,8 +1,8 @@
 <div align=center>
  
-# 🚀 ZxCDDoS: Release v1.5 - Free DDoS Panel 🚀
+# 🚀 NOTSAFE DDOS: 2024 - Free DDoS Panel 🚀
 
-# Store: https://condi.billgang.store/
+# Store: https://t.me/safe_store22
 
 <p>
  <img src="https://img.shields.io/github/stars/hoaan1995/ZxCDDoS?color=%23DF0067&style=for-the-badge"/> &nbsp;
@@ -12,9 +12,9 @@
 </p>
 
 > Terminal only accepts ANSI color.<br>
-> Username: admin<br>
-> Password: admin<br>
-<p align="center">  <a href="https://t.me/learneverything9"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
+> Username: ROOT<br>
+> Password: NOTSAFE<br>
+<p align="center">  <a href="https://t.me/safe_store22"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
  
 ## Language</br>
 
@@ -26,7 +26,7 @@
  - UPDATE NEW HTTP(s) PROXY!
  
 ## Screenshot
-![lk](https://i.ibb.co/LNkqyPR/bandicam-2022-04-12-22-11-34-101.jpg)
+![lk](https://ibb.co/whZf3qD)
 
 # Tree
 * [Read now pls](#README)
@@ -96,6 +96,6 @@ remember: you are responsible for the attacks since this tool was created for ed
 
 # CONTACT:
 ```sh
-Telegram: @zxcr9999
-Discord: zxcr9999#1770
+Telegram: https://t.me/safe_store22
+Discord: soon
 ```
